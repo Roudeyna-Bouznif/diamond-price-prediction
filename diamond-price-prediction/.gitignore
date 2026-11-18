@@ -1,0 +1,9 @@
+data/*.csv
+models/*.joblib
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
